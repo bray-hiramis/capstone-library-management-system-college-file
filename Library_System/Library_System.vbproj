@@ -1,0 +1,447 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1BC14A3B-643B-4160-98B4-B436C9DFFA01}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Library_System.My.MyApplication</StartupObject>
+    <RootNamespace>Library_System</RootNamespace>
+    <AssemblyName>Library_System</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Library_System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Library_System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Logo_ICON_V2.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.Designer.vb">
+      <DependentUpon>About.vb</DependentUpon>
+    </Compile>
+    <Compile Include="About.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddAccount.Designer.vb">
+      <DependentUpon>AddAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddBooks.Designer.vb">
+      <DependentUpon>AddBooks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddBooks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BookReturn.Designer.vb">
+      <DependentUpon>BookReturn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BookReturn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BorrowedBook.Designer.vb">
+      <DependentUpon>BorrowedBook.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BorrowedBook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangePassword.Designer.vb">
+      <DependentUpon>ChangePassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Database.Designer.vb">
+      <DependentUpon>Database.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Database.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Help.Designer.vb">
+      <DependentUpon>Help.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Help.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LMS_dbDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LMS_dbDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LMS_dbDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LMS_dbDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LostandReplacement.Designer.vb">
+      <DependentUpon>LostandReplacement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LostandReplacement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.vb">
+      <DependentUpon>MainForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Splash.Designer.vb">
+      <DependentUpon>Splash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateBooks.Designer.vb">
+      <DependentUpon>UpdateBooks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateBooks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddAccount.resx">
+      <DependentUpon>AddAccount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddBooks.resx">
+      <DependentUpon>AddBooks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BookReturn.resx">
+      <DependentUpon>BookReturn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BorrowedBook.resx">
+      <DependentUpon>BorrowedBook.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangePassword.resx">
+      <DependentUpon>ChangePassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Database.resx">
+      <DependentUpon>Database.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Help.resx">
+      <DependentUpon>Help.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LostandReplacement.resx">
+      <DependentUpon>LostandReplacement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateBooks.resx">
+      <DependentUpon>UpdateBooks.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="LMS_dbDataSet.xsc">
+      <DependentUpon>LMS_dbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LMS_dbDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LMS_dbDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LMS_dbDataSet.xss">
+      <DependentUpon>LMS_dbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LMS_dbDataSet1.xsc">
+      <DependentUpon>LMS_dbDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="LMS_dbDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LMS_dbDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LMS_dbDataSet1.xss">
+      <DependentUpon>LMS_dbDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg_V2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\noimage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg_V3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg_V4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clear.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize_button.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize_button1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close_button.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close_button1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close_button2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close_button3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg_V41.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg_V42.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg_V43.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize_button2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MainBG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close_main.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close_main1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close_main2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close_main3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close_main4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close_main5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Min_main.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ButtonBG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tools_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tools_edit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tools.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Box.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tools_edit2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tools_edit3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tools_edit4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tools_edit5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notification.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notification1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logs_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Help_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notification2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock_main.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="LMS_db.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Logo_ICON_V2.ico" />
+    <None Include="Resources\AboutBG.jpg" />
+    <None Include="Resources\ASplashGIF1.gif" />
+    <None Include="Resources\ASplashGIF.gif" />
+    <None Include="Resources\FinalSplashGif.gif" />
+    <None Include="Resources\SplashGIF.gif" />
+    <None Include="Resources\SplashFormBG3.png" />
+    <None Include="Resources\SplashFormBG2.png" />
+    <None Include="Resources\SplashFormBG1.png" />
+    <None Include="Resources\SplashFormBG.png" />
+    <None Include="Resources\DatabaseBG.jpg" />
+    <None Include="Resources\MainBG2.jpg" />
+    <None Include="Resources\MainBanner copy.JPG" />
+    <None Include="Resources\1Admin.jpg" />
+    <None Include="Resources\employeesIcon200.jpg" />
+    <None Include="Resources\Database.ico" />
+    <None Include="Resources\db.jpg" />
+    <None Include="Resources\database_icon.jpg" />
+    <None Include="Resources\noimage1.png" />
+    <None Include="Resources\AddAccounts.jpg" />
+    <None Include="Resources\LostadnReplace1.jpg" />
+    <None Include="Resources\LostadnReplace.jpg" />
+    <None Include="Resources\TimeMain1.png" />
+    <None Include="Resources\TimeMain.png" />
+    <None Include="Resources\ReturnBookBG.jpg" />
+    <None Include="Resources\application_form_edit1.png" />
+    <None Include="Resources\delete%281%29.png" />
+    <None Include="Resources\arrow_refresh.png" />
+    <None Include="Resources\application_delete.png" />
+    <None Include="Resources\application_form_edit.png" />
+    <None Include="Resources\add.png" />
+    <None Include="Resources\UpdateBG.jpg" />
+    <None Include="Resources\AddBooksBG3.jpg" />
+    <None Include="Resources\AddBooksBG2.jpg" />
+    <None Include="Resources\AddBooksBG1.jpg" />
+    <None Include="Resources\AddBooksBG.jpg" />
+    <None Include="Resources\tools_II1.png" />
+    <None Include="Resources\tools_II.png" />
+    <None Include="Resources\Clock_main3.jpg" />
+    <None Include="Resources\Clock_main2.jpg" />
+    <None Include="Resources\Clock_main1.jpg" />
+    <None Include="Resources\MainBG1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

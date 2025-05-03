@@ -1,0 +1,680 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Library_System
+</name>
+</assembly>
+<members>
+<member name="P:Library_System.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources._1Admin">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.add">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.AddAccounts">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.AddBooksBG">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.AddBooksBG1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.AddBooksBG2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.AddBooksBG3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.application_delete">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.application_form_edit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.application_form_edit1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.arrow_refresh">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.ASplashGIF">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.ASplashGIF1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.bg_V2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.bg_V3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.bg_V4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.bg_V41">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.bg_V42">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.bg_V43">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.Box">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.ButtonBG">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.ChangePassBG">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.Clear">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.Clock_main">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.Clock_main1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.Clock_main2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.Clock_main3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.Close_button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.Close_button1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.Close_button2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.Close_button3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.Close_main">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.Close_main1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.Close_main2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.Close_main3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.Close_main4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.Close_main5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.Database">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.database_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.DatabaseBG">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.db">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.delete_1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.employeesIcon200">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.FinalSplashGif">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.Help_edit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.Login">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.Login1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.Login2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.Logs_edit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.LostadnReplace">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.LostadnReplace1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.MainBanner_copy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.MainBG">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.MainBG1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.MainBG2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.Min_main">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.minimize_button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.minimize_button1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.minimize_button2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.noimage">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.noimage1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.Notification">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.Notification1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.Notification2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.ReturnBookBG">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.SplashFormBG">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.SplashFormBG1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.SplashFormBG2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.SplashFormBG3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.SplashGIF">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.TimeMain">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.TimeMain1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.Tools">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.tools_edit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.tools_edit1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.tools_edit2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.tools_edit3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.tools_edit4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.tools_edit5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.tools_II">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.tools_II1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Library_System.My.Resources.Resources.UpdateBG">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Library_System.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet.AdministratorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet.BookBorrowDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet.BookReturnDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet.BooksDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet.LogsActivityDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet.LogsTimeInDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet.LogsTimeOutDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet.BooksLostandReplace1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet.AdministratorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet.BookBorrowRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet.BookReturnRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet.BooksRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet.LogsActivityRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet.LogsTimeInRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet.LogsTimeOutRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet.BooksLostandReplace1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet.AdministratorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet.BookBorrowRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet.BookReturnRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet.BooksRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet.LogsActivityRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet.LogsTimeInRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet.LogsTimeOutRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet.BooksLostandReplace1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSetTableAdapters.AdministratorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSetTableAdapters.BookBorrowTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSetTableAdapters.BookReturnTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSetTableAdapters.BooksTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSetTableAdapters.LogsActivityTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSetTableAdapters.LogsTimeInTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSetTableAdapters.LogsTimeOutTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSetTableAdapters.BooksLostandReplace1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Library_System.LMS_dbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Library_System.LMS_dbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Library_System.LMS_dbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Library_System.LMS_dbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Library_System.LMS_dbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Library_System.LMS_dbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Library_System.LMS_dbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Library_System.LMS_dbDataSetTableAdapters.TableAdapterManager.UpdateAll(Library_System.LMS_dbDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1.AdministratorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1.BookBorrowDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1.BookReturnDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1.BooksDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1.BooksLostandReplaceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1.LogsActivityDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1.LogsTimeInDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1.LogsTimeOutDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1.AdministratorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1.BookBorrowRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1.BookReturnRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1.BooksRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1.BooksLostandReplaceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1.LogsActivityRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1.LogsTimeInRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1.LogsTimeOutRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1.AdministratorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1.BookBorrowRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1.BookReturnRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1.BooksRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1.BooksLostandReplaceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1.LogsActivityRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1.LogsTimeInRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1.LogsTimeOutRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1TableAdapters.AdministratorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1TableAdapters.BookBorrowTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1TableAdapters.BookReturnTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1TableAdapters.BooksTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1TableAdapters.BooksLostandReplaceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1TableAdapters.LogsActivityTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1TableAdapters.LogsTimeInTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1TableAdapters.LogsTimeOutTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Library_System.LMS_dbDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Library_System.LMS_dbDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Library_System.LMS_dbDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Library_System.LMS_dbDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Library_System.LMS_dbDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Library_System.LMS_dbDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Library_System.LMS_dbDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Library_System.LMS_dbDataSet1TableAdapters.TableAdapterManager.UpdateAll(Library_System.LMS_dbDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Library_System.LMS_dbDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
