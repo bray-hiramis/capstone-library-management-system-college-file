@@ -60,15 +60,3 @@ The system's database includes the following tables:
 ## Advisor
 
 * Mr. Melvin F. Libunao
-
-## Acknowledgements
-
-(Based on the provided text, you can copy and paste the Acknowledgement section here if you wish, or provide a summary of thanks to the advisor, committee members, college, loved ones, and groupmates.)
-
-## Getting Started
-
-(Instructions for setting up and running the project would depend on the specific technology used and dependencies. As this is a college project from VS 2010, it likely requires the .NET Framework and potentially a specific database setup. You might add notes here like: "Requires Microsoft Visual Studio 2010 or later compatible version and the .NET Framework. Database setup details [mention where to find them or describe the process].")
-
-## License
-
-(Consider adding a LICENSE file to your repository, e.g., an MIT License, and mention it here.)
